@@ -47,9 +47,9 @@ allprojects {
 Step 2 : Add the dependency
 ```java
 dependencies {
-         dependencies {
-         	       implementation 'com.github.mrabelwahed:PhotoEditorSDK:1.0'
-         	}
+        
+    implementation 'com.github.mrabelwahed:PhotoEditorSDK:1.0'
+         	
  }
  ```
 
