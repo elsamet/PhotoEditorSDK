@@ -1,11 +1,14 @@
-# PhotoEditorSDK
+# PhotoEditorSDK[updated one with bug fixes]
 
 ![alt tag](https://s18.postimg.org/xza5yw53d/photoeditorsdk.png)
 
 It is an android image editing SDK with simple, easy support for image manipulation.
 
 -----------------------------------------------------------------------------------------------------
-
+## new Features
+ -support AndroidX
+ 
+ 
 ## Features
 - Adding Images.
 - Adding Stickers.
