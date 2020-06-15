@@ -5,7 +5,7 @@
 It is an android image editing SDK with simple, easy support for image manipulation.
 
 -----------------------------------------------------------------------------------------------------
-## new Features
+## New Features
  -Support AndroidX
  
  
@@ -40,14 +40,16 @@ Step 1 : Add it in your root build.gradle at the end of repositories
 allprojects {
   repositories {
    ...
-   maven { url 'https://jitpack.io' }
+  maven { url 'https://jitpack.io' }
   }
 }
 ```
 Step 2 : Add the dependency
 ```java
 dependencies {
-         compile 'com.github.eventtus:photo-editor-android:v1.0'
+         dependencies {
+         	       implementation 'com.github.mrabelwahed:PhotoEditorSDK:1.0'
+         	}
  }
  ```
 
@@ -55,19 +57,19 @@ dependencies {
 
 Step 1 : Add it in your root build.gradle at the end of repositories
 ```java
-<repositories>
-  <repository>
-      <id>jitpack.io</id>
-      <url>https://jitpack.io</url>
-  </repository>
-</repositories>
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
 ```
 Step 2 : Add the dependency
 ```java
 <dependency>
-     <groupId>com.github.eventtus</groupId>
-     <artifactId>photo-editor-android</artifactId>
-     <version>v1.0</version>
+	    <groupId>com.github.mrabelwahed</groupId>
+	    <artifactId>PhotoEditorSDK</artifactId>
+	    <version>Tag</version>
 </dependency>
 ```
 
