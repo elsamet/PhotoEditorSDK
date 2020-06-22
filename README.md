@@ -5,6 +5,9 @@
 It is an android image editing SDK with simple, easy support for image manipulation.
 
 -----------------------------------------------------------------------------------------------------
+
+<a href="https://www.buymeacoffee.com/ramadan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
 ## New Features
  -Support AndroidX
  
